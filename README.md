@@ -20,3 +20,12 @@ Steps for Creating the app:
 - front end will be ejs 
 - two lists will be needed on the fron end, one for users one for creating a view of the conversations
 -jquery can be used for the action in selecting the users and conversations
+
+
+####Setup
+
+-first need to create a backend api where I can hold converations and users 
+-json needs key value pairs of text with user names and date
+
+-front end needs to recieve the data
+-two accessible jquery lists need to be created with users and then a "list of messages"
